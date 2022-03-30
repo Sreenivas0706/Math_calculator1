@@ -28,6 +28,6 @@ Check the division of a number by negative number.(passed)
 
 Check the division of zero by any number.(passed)
 
-check the time consuming between two persons to complete the assigned task(passed)
+check the work time consuming between two persons to complete the assigned task(passed)
 
 check the age of the candidate.(passed) 
